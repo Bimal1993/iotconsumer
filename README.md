@@ -7,7 +7,7 @@ Configure JDK.
 Download Maven.
 Configure Maven.
 
-### Run the ConsumerIoT app
+### Run the iotconsumer app
 
 Clone the *iotConsumer* repository which contains de project.  
 
